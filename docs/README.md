@@ -18,6 +18,9 @@ Rešitev za implementacijo API-ja za upravljanje zahtevkov z uporabo ASP.NET Cor
 5. Do aplikacije lahko dostopate preko brskalnika ali zunanjih orodij kot so npr. Postman (`http://localhost:5000/api/Task/tasks`)
 6. Kontejner zaustavite z ukazom `docker-compose down` ali preko vmesnika Docker Desktop
 
+## Logiranje
+Aplikacija beleži dogodke in napake v datoteki `logs.txt` (*\TestnaNalogaOresnik\logs.txt*)
+
 ## Testiranje
 Rešitev vključuje projekt za tesitranje aplikacije **Test**. Testiranje lahko izvedemo na dva načina
 ### Visual Studio 22
