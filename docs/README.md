@@ -1,4 +1,5 @@
 # Upravljanje opravil
+Rešitev za implementacijo API-ja za upravljanje zahtevkov z uporabo ASP.NET Core in arhitekturnega vzorca Clean Arhitecture. Podpira testiranje in pakiranje v Docker kontejner.
 
 ## Zagon aplikacije
 ### Visual Studio 22
@@ -27,11 +28,10 @@ Rešitev vključuje projekt za tesitranje aplikacije **Test**. Testiranje lahko 
 1. Odprite ukazno okno in se postavite v direktorij rešitve
 2. Zaženite ukaz `dotnet test`
 
-## Opdravljanje napak
+## Odpravljanje napak
 - Preverite, da so v rešitvi obnovljene odvisnosti **Restore NuGet Packages**
 - Preverite, da je .NET verzija nastavljena na 8
 
-<br>
 <br>
 
 ## Avtor
